@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.example.camerax_qr_deeplink",
+    "sha256_cert_fingerprints":
+    ["42:49:31:ED:C8:13:CB:3E:A2:57:19:DE:75:2A:24:1B:74:76:21:E9:8B:92:F2:6E:CF:68:B5:CC:0B:E3:FA:D0"]
+  }
+}]
